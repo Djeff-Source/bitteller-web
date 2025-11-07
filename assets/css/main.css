@@ -1,8 +1,8 @@
 /* ============================= CSS table of contents and Scss Indexing ================================
 * Name: Bitteller money exchange HTML Template
 * Version: 1.0.0
-* Author: Djeff-Source
-* Author URI: https://themeforest.net/user/Djeff-Source 
+* Author: wowtheme7
+* Author URI: https://themeforest.net/user/wowtheme7 
 
 * abstracts
     * Functions
@@ -97,7 +97,7 @@
 /* ========================= Variable Css Start ======================== */
 :root {
   /* Font Family Variable */
-    --heading-font: "Wendy One", sans-serif;
+    --heading-font: "Nunito", sans-serif;
     --body-font: "Zen Maru Gothic", serif;
   /* Font Size Variable Start */
     --heading-one: clamp(1.75rem, 0.5948rem + 2.4067vw, 3rem);
@@ -169,7 +169,7 @@
     --base-two-10: #1040421A;
     --base-two-100: #12121299;
     --base-two-200: #00998B0D;
-    --base-two-300: #7762ed99;
+    --base-two-300: #342065;
     --base-two-600: #7B67ED;
     --primary-05: #5D69F40D;
     --primary-50: #101010;
